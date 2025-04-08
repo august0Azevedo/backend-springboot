@@ -1,0 +1,6 @@
+com\senai\user\Application.class
+com\senai\user\repository\UsuarioRepository.class
+com\senai\user\controller\UsuarioController.class
+com\senai\user\entity\Usuario.class
+com\senai\user\CorsConfig.class
+com\senai\user\service\UsuarioService.class
